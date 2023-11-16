@@ -1,0 +1,14 @@
+.card{
+    background-color: rgb(20, 20, 20);
+    color: #ffffff;
+    padding: 20px;
+    margin: 32px;
+    align-items: center;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.title{
+    text-align: center;
+}
